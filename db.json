@@ -1,33 +1,211 @@
 {
-  "projects": [
+  "festivals": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Burning Man",
+      "location": {
+        "country": "USA",
+        "state": "Nevada",
+        "city": "Black Rock City",
+        "zipcode": 8378
+      },
+      "logo": "https://i.pinimg.com/originals/df/85/35/df85358c2c377c874673f1c60667c358.jpg",
+      "genres": [
+        "pop",
+        "hip hop",
+        "techno"
+      ],
+      "outdoor": true
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "TomorrowLand",
+      "location": {
+        "country": "Belgica",
+        "city": "Boom",
+        "zipcode": 23244
+      },
+      "logo": "https://w7.pngwing.com/pngs/116/435/png-transparent-2018-tomorrowland-tomorrowworld-music-festival-decal-2016-tomorrowland-tomorrowland-heart-logo-sticker-thumbnail.png",
+      "genres": [
+        "pop",
+        "hip hop",
+        "techno"
+      ],
+      "outdoor": true
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "SnowBombing",
+      "location": {
+        "country": "Austria",
+        "city": "Mayrhofen",
+        "zipcode": 6290
+      },
+      "logo": "https://149962617.v2.pressablecdn.com/wp-content/uploads/2022/12/cropped-Snow.png",
+      "genres": [
+        "pop",
+        "hip hop",
+        "techno"
+      ],
+      "outdoor": true
+    }
+  ],
+  "editions": [
+    {
+      "id": 1,
+      "festivalId": 1,
+      "year": 2023,
+      "capacity": 100000,
+      "stages": 10,
+      "sponsors": [
+        {
+          "name": "Coca-Cola",
+          "logo": "url"
+        },
+        {
+          "name": "Galletas Maria",
+          "logo": "url"
+        },
+        {
+          "name": "Microsoft",
+          "logo": "url"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "url",
+          "url",
+          "url"
+        ],
+        "videos": [
+          "url",
+          "url",
+          "url"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "festivalId": 2,
+      "year": 2023,
+      "capacity": 100000,
+      "stages": 10,
+      "sponsors": [
+        {
+          "name": "Coca-Cola",
+          "logo": "url"
+        },
+        {
+          "name": "Galletas Maria",
+          "logo": "url"
+        },
+        {
+          "name": "Microsoft",
+          "logo": "url"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "url",
+          "url",
+          "url"
+        ],
+        "videos": [
+          "url",
+          "url",
+          "url"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "festivalId": 3,
+      "year": 2023,
+      "capacity": 100000,
+      "stages": 10,
+      "sponsors": [
+        {
+          "name": "Coca-Cola",
+          "logo": "url"
+        },
+        {
+          "name": "Galletas Maria",
+          "logo": "url"
+        },
+        {
+          "name": "Microsoft",
+          "logo": "url"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "url",
+          "url",
+          "url"
+        ],
+        "videos": [
+          "url",
+          "url",
+          "url"
+        ]
+      }
     }
   ]
 }
