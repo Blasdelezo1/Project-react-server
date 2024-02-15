@@ -9,8 +9,7 @@
 
 ### Routes Info
 
-| HTTP VERB  |  URLS | REQUEST BODY | ACTION
-
+| HTTP VERB  |  URLS | REQUEST BODY | ACTION |
 | ---------- | ---------- | ---------- | ----------| 
 | POST | /festivals | JSON |Create a new Festival|
 | GET|  /festivals   |(EMPTY)| Retrieve all Festivals|
