@@ -12,9 +12,26 @@
       },
       "logo": "https://i.pinimg.com/originals/df/85/35/df85358c2c377c874673f1c60667c358.jpg",
       "genres": [
-        "pop",
-        "hip hop",
-        "techno"
+        "Electronic Dance Music (EDM)",
+        "Techno",
+        "House",
+        "Trance",
+        "Ambient",
+        "Experimental",
+        "Psytrance",
+        "Drum and Bass",
+        "Dubstep",
+        "Hip-hop",
+        "Rock",
+        "Jazz",
+        "Funk",
+        "World Music",
+        "Folk",
+        "Reggae",
+        "Latin",
+        "Classical",
+        "Industrial",
+        "Noise"
       ],
       "outdoor": true,
       "source": [
@@ -34,15 +51,33 @@
       },
       "logo": "https://w7.pngwing.com/pngs/116/435/png-transparent-2018-tomorrowland-tomorrowworld-music-festival-decal-2016-tomorrowland-tomorrowland-heart-logo-sticker-thumbnail.png",
       "genres": [
-        "pop",
-        "hip hop",
-        "techno"
+        "Electronic Dance Music (EDM)",
+        "Techno",
+        "House",
+        "Trance",
+        "Progressive House",
+        "Deep House",
+        "Dubstep",
+        "Drum and Bass",
+        "Hardstyle",
+        "Trap",
+        "Hip-hop",
+        "Pop",
+        "Indie",
+        "Rock",
+        "Funk",
+        "Disco",
+        "Reggae",
+        "World Music",
+        "Latin",
+        "Classical"
       ],
       "outdoor": true
     },
     {
       "id": 3,
       "name": "SnowBombing",
+      "description": "SnowBombing is an annual music and winter sports festival held in various locations across Europe. It is known for combining top-tier electronic music with outdoor activities such as skiing and snowboarding at some of the continent's finest ski resorts.<LF>The festival offers a variety of performances by internationally renowned artists in different electronic music genres, as well as parties on ski slopes, in clubs, and at unique venues like igloos or mountain refuges.<LF>In addition to music, SnowBombing offers a wide range of activities such as skiing and snowboarding competitions, outdoor hot tub baths, snow yoga sessions, and more. There are also accommodation options ranging from luxury hotels to cozy mountain chalets.<LF>SnowBombing is known for its festive atmosphere and unique blend of music and winter sports, making it an exciting experience for music lovers and snow enthusiasts alike.",
       "location": {
         "country": "Austria",
         "city": "Mayrhofen",
@@ -50,15 +85,27 @@
       },
       "logo": "https://149962617.v2.pressablecdn.com/wp-content/uploads/2022/12/cropped-Snow.png",
       "genres": [
-        "pop",
-        "hip hop",
-        "techno"
+        "Electronic Dance Music (EDM)",
+        "House",
+        "Techno",
+        "Drum and Bass",
+        "Dubstep",
+        "Trance",
+        "Electro",
+        "Bass Music",
+        "Deep House",
+        "Progressive House",
+        "Breakbeat",
+        "Garage",
+        "Disco",
+        "Hip Hop"
       ],
       "outdoor": true
     },
     {
       "id": 4,
       "name": "UltraEurope",
+      "description": "Ultra Europe is an extension of the Ultra Music Festival, which began in Miami, United States, in 1999. The success of the festival in Miami led to the international expansion of the Ultra brand, and Ultra Europe became one of the main destinations in the festival series.<LF>The Ultra Europe festival takes place in the city of Split, Croatia. In addition to the main events in Split, the festival often includes pre and post-festival parties in other cities in Croatia, such as Hvar and Vis.<LF>Ultra Europe features an impressive lineup of world-renowned electronic music artists. Musical genres include EDM (Electronic Dance Music), house, techno, trance, dubstep, and more. The festival has hosted some of the world's biggest DJs and producers, as well as emerging artists.<LF>Ultra Europe offers attendees an immersive experience with multiple stages, special effects, dazzling lights, and a celebratory atmosphere. In addition to the music, the festival may also include additional activities, chill-out areas, food options, and more to provide a complete experience for electronic music fans.<LF>Due to its reputation as one of the top electronic music festivals in Europe, Ultra Europe attracts a diverse international audience of music fans from around the world. Attendees come to enjoy the music, culture, and festive atmosphere of the festival.",
       "location": {
         "country": "Croatia",
         "city": "Split",
@@ -66,15 +113,33 @@
       },
       "logo": "https://w7.pngwing.com/pngs/608/313/png-transparent-ultra-europe-logo-ultra-music-festival-ultra-europe-split-ultra-singapore-ultra-bali-axe-logo-miscellaneous-text-trademark.png",
       "genres": [
-        "pop",
-        "hip hop",
-        "techno"
+        "Electronic Dance Music (EDM)",
+        "Techno",
+        "House",
+        "Trance",
+        "Progressive House",
+        "Deep House",
+        "Dubstep",
+        "Drum and Bass",
+        "Hardstyle",
+        "Trap",
+        "Hip-hop",
+        "Pop",
+        "Indie",
+        "Rock",
+        "Funk",
+        "Disco",
+        "Reggae",
+        "World Music",
+        "Latin",
+        "Classical"
       ],
       "outdoor": true
     },
     {
       "id": 5,
       "name": "Primavera Sound",
+      "description": "The Primavera Sound is an annual music festival held in Barcelona, Spain. It is one of Europe's most important festivals and attracts a wide variety of music artists and fans from around the world.<LF>The Primavera Sound festival began in 2001 as a one-day event with a focus on independent, alternative, and cutting-edge music. Over the years, it has grown significantly in size and popularity, becoming a multi-day festival that encompasses a wide range of musical genres.<LF>Primavera Sound primarily takes place in Parc del Fòrum, a large outdoor space located on the coast of Barcelona. In addition to concerts at Parc del Fòrum, the festival also includes performances at various venues throughout the city, such as clubs, theaters, and cultural spaces.<LF>Primavera Sound is known for its musical diversity and eclecticism. The festival features a mix of genres ranging from indie rock, pop, and electronic, to hip-hop, punk, folk, and more. This allows attendees to enjoy a wide range of musical styles and discover new artists.<LF>Each year, Primavera Sound presents an impressive lineup of both established and emerging artists. It has hosted some of the biggest names in the music industry, as well as up-and-coming talents on the rise. Some of the artists who have performed at the festival include Arcade Fire, Radiohead, Björk, Kendrick Lamar, The Strokes, Lana Del Rey, among many others.<LF>In addition to music, Primavera Sound offers a unique experience that combines Barcelona's culture, gastronomy, and art. Attendees can enjoy local food, art exhibitions, cultural activities, and more, making the festival a complete and enriching experience.",
       "location": {
         "country": "Spain",
         "city": "Barcelona",
@@ -82,9 +147,12 @@
       },
       "logo": "https://assets.primaverasound.com/psweb/cuproz26ipgtt0675lg2_1681228372809.png",
       "genres": [
-        "pop",
-        "hip hop",
-        "techno"
+        "Indie rock",
+        "Pop",
+        "Electronic",
+        "Hip-hop",
+        "Punk",
+        "Folk"
       ],
       "outdoor": true
     }
@@ -152,6 +220,14 @@
         {
           "name": "OCB",
           "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+        },
+        {
+          "name": "Carrefour",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/1277px-Carrefour_logo.svg.png"
+        },
+        {
+          "name": "Brussels Airlines",
+          "logo": "https://1000logos.net/wp-content/uploads/2020/04/Brussels-Airlines-Logo.png"
         }
       ],
       "tickets": [
@@ -192,16 +268,28 @@
       "stages": 10,
       "sponsors": [
         {
-          "name": "OCB",
-          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+          "name": "Mayrhofner",
+          "logo": "https://dnyjvzj5aqor7.cloudfront.net/logos/6ae9f097-60e1-11e3-90b3-c42c031157e6/nh3VI9wSyVkDPKw1n7BH9wyOcQOa8zAXm07vxHhz.png"
         },
         {
-          "name": "Desperados",
-          "logo": "https://jasainternacional.com/wp-content/uploads/2022/12/desperados.png"
+          "name": "Budweiser",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
         },
         {
-          "name": "Microsoft",
-          "logo": "url"
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
+          "name": "Coca-Cola",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "name": "Coors",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coors_logo.svg/1280px-Coors_logo.svg.png"
+        },
+        {
+          "name": "Fireball",
+          "logo": "https://www.fireballwhisky.com/content/dam/sazerac/final/north-america/shooters/fireball/archived-do-not-use/logo/Fireball_Whisky_Logo_PMS.png"
         }
       ],
       "tickets": [
@@ -225,15 +313,13 @@
       "sources": {
         "cover": "url",
         "images": [
-          "url",
-          "url",
-          "url"
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
         ],
-        "videos": [
-          "url",
-          "url",
-          "url"
-        ]
+        "video": "url"
       }
     },
     {
@@ -244,16 +330,16 @@
       "stages": 4,
       "sponsors": [
         {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
           "name": "Coca-Cola",
-          "logo": "url"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
         },
         {
-          "name": "Galletas Maria",
-          "logo": "url"
-        },
-        {
-          "name": "Microsoft",
-          "logo": "url"
+          "name": "Budweiser",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
         }
       ],
       "tickets": [
@@ -277,15 +363,363 @@
       "sources": {
         "cover": "url",
         "images": [
-          "url",
-          "url",
-          "url"
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
         ],
-        "videos": [
-          "url",
-          "url",
-          "url"
-        ]
+        "video": "url"
+      }
+    },
+    {
+      "id": 104,
+      "festivalId": 5,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "sponsors": [
+        {
+          "name": "Desperados",
+          "logo": "https://jasainternacional.com/wp-content/uploads/2022/12/desperados.png"
+        },
+        {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
+          "name": "Coca-Cola",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "name": "OCB",
+          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
+      }
+    },
+    {
+      "id": 105,
+      "festivalId": 1,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
+      }
+    },
+    {
+      "id": 106,
+      "festivalId": 2,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "sponsors": [
+        {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
+          "name": "Coca-Cola",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "name": "Budweiser",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
+        },
+        {
+          "name": "BMW",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/2048px-BMW.svg.png"
+        },
+        {
+          "name": "OCB",
+          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+        },
+        {
+          "name": "Carrefour",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/1277px-Carrefour_logo.svg.png"
+        },
+        {
+          "name": "Brussels Airlines",
+          "logo": "https://1000logos.net/wp-content/uploads/2020/04/Brussels-Airlines-Logo.png"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
+      }
+    },
+    {
+      "id": 107,
+      "festivalId": 3,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "sponsors": [
+        {
+          "name": "Mayrhofner",
+          "logo": "https://dnyjvzj5aqor7.cloudfront.net/logos/6ae9f097-60e1-11e3-90b3-c42c031157e6/nh3VI9wSyVkDPKw1n7BH9wyOcQOa8zAXm07vxHhz.png"
+        },
+        {
+          "name": "Budweiser",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
+        },
+        {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
+          "name": "Coca-Cola",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "name": "Coors",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coors_logo.svg/1280px-Coors_logo.svg.png"
+        },
+        {
+          "name": "Fireball",
+          "logo": "https://www.fireballwhisky.com/content/dam/sazerac/final/north-america/shooters/fireball/archived-do-not-use/logo/Fireball_Whisky_Logo_PMS.png"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
+      }
+    },
+    {
+      "id": 108,
+      "festivalId": 4,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "sponsors": [
+        {
+          "name": "Coca-Cola",
+          "logo": "url"
+        },
+        {
+          "name": "Coca-Cola",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "name": "Budweiser",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
+      }
+    },
+    {
+      "id": 109,
+      "festivalId": 5,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "sponsors": [
+        {
+          "name": "Coca-Cola",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
+          "name": "OCB",
+          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+        },
+        {
+          "name": "Desperados",
+          "logo": "https://jasainternacional.com/wp-content/uploads/2022/12/desperados.png"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
+      }
+    },
+    {
+      "id": 110,
+      "festivalId": 1,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "sources": {
+        "cover": "url",
+        "images": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "video": "url"
       }
     }
   ]
