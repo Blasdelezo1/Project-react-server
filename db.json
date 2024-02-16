@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Burning Man",
+      "description": "Guided by the values expressed by the 10 Principles, Burning Man is a global ecosystem of artists, makers, and community organizers who co-create art, events, and local initiatives around the world. Most recognizably, tens of thousands of Burners gather annually to build Black Rock City, a participative temporary metropolis in the Nevada desert.The nonprofit Burning Man Project produces the annual Burning Man event in Black Rock City, and provides year-round support, connection, education, and grants to an ever-growing network of Regional Burning Man communities in more than 40 US states and 35 countries. Read on to learn all the ways you can get involved in Burning Man culture!",
       "location": {
         "country": "USA",
         "state": "Nevada",
@@ -15,11 +16,17 @@
         "hip hop",
         "techno"
       ],
-      "outdoor": true
+      "outdoor": true,
+      "source": [
+        "https://www.youtube.com/watch?v=6brdIO0YOyY",
+        "https://www.youtube.com/watch?v=2o0CmWkYzCo",
+        "https://www.youtube.com/watch?v=9kDI2lCOEpo"
+      ]
     },
     {
       "id": 2,
       "name": "TomorrowLand",
+      "description": "Tomorrowland is a large-scale annual electronic dance music festival held in Boom, Belgium. Taking place within De Schorre provincial recreational park, it debuted in 2005, from an idea conceived by brothers Manu and Michiel Beers.[4] Since then, Tomorrowland has become one of the best known music festivals in the world. It has won numerous accolades and awards, including being voted five times in a row as best musical event of the year at the International Dance Music Awards. It employs 80 people year-round for the organisation and 15,000 people during the event. Tomorrowland's success has led to the creation of spin-off festivals. From 2013 to 2015, the concept was briefly exported to the United States, near Atlanta, under the name TomorrowWorld. In 2015, a festival known as Tomorrowland Brasil was started in a third country, Brazil. Since 2019, the festival has set up a winter edition, Tomorrowland Winter, in the heart of the Olympic resort of Alpe d'Huez, France.",
       "location": {
         "country": "Belgica",
         "city": "Boom",
@@ -48,119 +55,193 @@
         "techno"
       ],
       "outdoor": true
+    },
+    {
+      "id": 4,
+      "name": "UltraEurope",
+      "location": {
+        "country": "Croatia",
+        "city": "Split",
+        "zipcode": 21000
+      },
+      "logo": "https://w7.pngwing.com/pngs/608/313/png-transparent-ultra-europe-logo-ultra-music-festival-ultra-europe-split-ultra-singapore-ultra-bali-axe-logo-miscellaneous-text-trademark.png",
+      "genres": [
+        "pop",
+        "hip hop",
+        "techno"
+      ],
+      "outdoor": true
+    },
+    {
+      "id": 5,
+      "name": "Primavera Sound",
+      "location": {
+        "country": "Spain",
+        "city": "Barcelona",
+        "zipcode": 8019
+      },
+      "logo": "https://assets.primaverasound.com/psweb/cuproz26ipgtt0675lg2_1681228372809.png",
+      "genres": [
+        "pop",
+        "hip hop",
+        "techno"
+      ],
+      "outdoor": true
     }
   ],
   "editions": [
     {
-      "id": 1,
+      "id": 100,
       "festivalId": 1,
-      "year": 2023,
-      "capacity": 100000,
-      "stages": 10,
-      "sponsors": [
-        {
-          "name": "Coca-Cola",
-          "logo": "url"
-        },
-        {
-          "name": "Galletas Maria",
-          "logo": "url"
-        },
-        {
-          "name": "Microsoft",
-          "logo": "url"
-        }
-      ],
+      "starts": "22/08/2021",
+      "ends": "07/09/2021",
+      "year": 2021,
+      "capacity": 78850,
+      "stages": 7,
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "Fomo Ticket",
+          "price": 1250
         },
         {
-          "type": "All days pass regular",
-          "price": 180
+          "type": "OMG Ticket",
+          "price": 475
         },
         {
-          "type": "One day pass",
-          "price": 90
+          "type": "Vehicle Pass",
+          "price": 150
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://journal.burningman.org/wp-content/uploads/2021/03/Screen-Shot-2021-03-18-at-11.00.28-AM-665x375.png",
         "images": [
-          "url",
-          "url",
-          "url"
+          "https://mixmagsa.com/assets/uploads/images/_columns2/burning-man-virtual-festival-2021.jpg",
+          "https://www.billboard.com/wp-content/uploads/2021/09/burning-man-04-2021-billboard-1240-1631223056.jpg",
+          "https://beatandmix.com/wp-content/uploads/2019/02/hbz-burning-man-04-1536179307.jpg",
+          "https://majomontemayor.com/wp-content/uploads/2020/04/Burning-Man.jpg",
+          "https://selector.news/wp-content/uploads/2021/09/SCOTT_LONDON_2021_05_4706.jpg"
         ],
-        "videos": [
-          "url",
-          "url",
-          "url"
-        ]
+        "video": "https://www.youtube.com/watch?v=WJ7BpSpib2A"
       }
     },
     {
-      "id": 2,
+      "id": 101,
       "festivalId": 2,
-      "year": 2023,
-      "capacity": 100000,
-      "stages": 10,
+      "starts": "15/07/2022",
+      "ends": "31/09/2022",
+      "year": 2022,
+      "capacity": 600000,
+      "stages": 14,
       "sponsors": [
         {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
           "name": "Coca-Cola",
-          "logo": "url"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
         },
         {
-          "name": "Galletas Maria",
-          "logo": "url"
+          "name": "Budweiser",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
         },
         {
-          "name": "Microsoft",
-          "logo": "url"
+          "name": "BMW",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/2048px-BMW.svg.png"
+        },
+        {
+          "name": "OCB",
+          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
         }
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
+          "type": "Full Madness",
           "price": 245
         },
         {
-          "type": "All days pass regular",
+          "type": "Pleasure Day Pass",
           "price": 180
         },
         {
-          "type": "One day pass",
+          "type": "Confort Day Pass",
+          "price": 90
+        },
+        {
+          "type": "Day Pass",
           "price": 90
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://www.allfest.es/wp-content/uploads/2022/02/TL22-019_PREREGTICKETSALEVISUALS-V6-3Weekends.jpg",
         "images": [
-          "url",
-          "url",
-          "url"
+          "https://cdn.uc.assets.prezly.com/9541fada-e788-4ea0-8d46-7adb3da2ba73/-/quality/best/-/format/auto/",
+          "https://musictech.com/wp-content/uploads/2022/02/Tomorrowland-Concert-2018@2000x1500.jpg",
+          "https://www.tomorrowland.com/src/Frontend/Themes/tomorrowland/Core/Layout/images/timeline/2022-5.jpg",
+          "https://www.tomorrowland.com/src/Frontend/Themes/tomorrowland/Core/Layout/images/timeline/2022-4.jpg",
+          "https://beatandmix.com/wp-content/uploads/2021/12/Tomorrowland-2022-en-BeatandMix.jpg"
         ],
-        "videos": [
-          "url",
-          "url",
-          "url"
-        ]
+        "video": "https://www.youtube.com/watch?v=4a-WM6ab8Tk"
       }
     },
     {
-      "id": 3,
+      "id": 102,
       "festivalId": 3,
-      "year": 2023,
+      "year": 2022,
       "capacity": 100000,
       "stages": 10,
+      "sponsors": [
+        {
+          "name": "OCB",
+          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+        },
+        {
+          "name": "Desperados",
+          "logo": "https://jasainternacional.com/wp-content/uploads/2022/12/desperados.png"
+        },
+        {
+          "name": "Microsoft",
+          "logo": "url"
+        }
+      ],
+      "tickets": [
+        {
+          "type": "All days pass VIP",
+          "price": 245
+        },
+        {
+          "type": "All days pass regular",
+          "price": 180
+        },
+        {
+          "type": "One day pass",
+          "price": 90
+        }
+      ],
+      "promoter": {
+        "name": "Mundo Evasion",
+        "president": "Ramon Colillas"
+      },
+      "sources": {
+        "cover": "url",
+        "images": [
+          "url",
+          "url",
+          "url"
+        ],
+        "videos": [
+          "url",
+          "url",
+          "url"
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "festivalId": 4,
+      "year": 2023,
+      "capacity": 150000,
+      "stages": 4,
       "sponsors": [
         {
           "name": "Coca-Cola",
@@ -206,10 +287,6 @@
           "url"
         ]
       }
-    },
-    {
-      "name": "testing",
-      "id": 4
     }
   ]
 }
