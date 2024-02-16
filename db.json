@@ -159,7 +159,7 @@
   ],
   "editions": [
     {
-      "id": 100,
+      "id": 100, // DONE
       "festivalId": 1,
       "starts": "22/08/2021",
       "ends": "07/09/2021",
@@ -169,11 +169,11 @@
       "tickets": [
         {
           "type": "Fomo Ticket",
-          "price": 1250
+          "price": 1100
         },
         {
           "type": "OMG Ticket",
-          "price": 475
+          "price": 355
         },
         {
           "type": "Vehicle Pass",
@@ -192,7 +192,7 @@
         "video": "https://www.youtube.com/watch?v=WJ7BpSpib2A"
       }
     },
-    {
+    { //DONE
       "id": 101,
       "festivalId": 2,
       "starts": "15/07/2022",
@@ -241,7 +241,7 @@
         },
         {
           "type": "Confort Day Pass",
-          "price": 90
+          "price": 200
         },
         {
           "type": "Day Pass",
@@ -261,11 +261,13 @@
       }
     },
     {
-      "id": 102,
+      "id": 102, // DONE
       "festivalId": 3,
       "year": 2022,
-      "capacity": 100000,
-      "stages": 10,
+      "starts": "04/04/2022",
+      "ends": "09/04/2022",
+      "capacity": 3000,
+      "stages": 5,
       "sponsors": [
         {
           "name": "Mayrhofner",
@@ -294,40 +296,34 @@
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "5 days pass + Accomodation",
+          "price": 789
         },
         {
-          "type": "All days pass regular",
-          "price": 180
-        },
-        {
-          "type": "One day pass",
-          "price": 90
+          "type": "5 days pass + Luxury Accomodation",
+          "price": 865
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vNGEyYTk1YzM2MDk5MmVmNDRlZTYyNzRmZWNjMDVmYWRiMGFjNWVlMi5qcGc=",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqvGmp_OAyZsd6-qtsiRtSQ-8Fgwjk6b5tQ&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXJpdIi_4JNNBZSZ997XriVmK8MjKVFTBag&usqp=CAU",
+          "https://images.rove.me/w_1920,q_85/ktyhuwtembstqjrzx2q2/austria-snowbombing-festival.jpg",
+          "https://www.thedjrevolution.com/wp-content/uploads/elementor/thumbs/Snowbombing-festival-2022-header-image-p8cboi0v7gycqf2w29cbmff60eaae6ry0us33qpjry.jpg",
+          "https://www.decodedmagazine.com/wp-content/uploads/2021/11/unnamed-6.jpg"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=18EUoCv-C70"
       }
     },
     {
-      "id": 103,
+      "id": 103, // DONE
       "festivalId": 4,
-      "year": 2023,
-      "capacity": 150000,
-      "stages": 4,
+      "year": 2022,
+      "starts": "08/07/2022",
+      "ends": "10/07/2022",
+      "capacity": 165000,
+      "stages": 7,
       "sponsors": [
         {
           "name": "Absolute",
@@ -338,132 +334,154 @@
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
         },
         {
-          "name": "Budweiser",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
+          "name": "Heineken",
+          "logo": "https://assets.stickpng.com/images/58480a5fcef1014c0b5e4919.png"
+        },
+        {
+          "name": "Mastercard",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg"
+        },
+        {
+          "name": "Red Bull",
+          "logo": "https://cdn.freebiesupply.com/logos/large/2x/redbull-logo-png-transparent.png"
+        },
+        {
+          "name": "Samsung",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+          "name": "Uber",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png"
         }
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "General Admission - 3 days",
+          "price": 139
         },
         {
-          "type": "All days pass regular",
-          "price": 180
+          "type": "VIP - 3 days",
+          "price": 369
         },
         {
-          "type": "One day pass",
-          "price": 90
+          "type": "Destination pass",
+          "price": 339
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://umfworldwide.com/wp-content/uploads/2022/09/ultraeuropeph1billingigpostv1.jpeg?&_ga=2.111149314.724059727.1708109570-1565097087.1708109570#_gl=1*1f5ykzx*_gcl_au*MTczNzQ4ODYwNi4xNzA4MTA5NTY5",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://ultraeurope.com/wp-content/uploads/2022/11/3-1600x1066.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2022/11/11-1600x1066.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2022/11/13-1600x1066.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2022/11/19-1600x1066.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2022/11/25-1600x1066.jpg"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=WEH_QkdjKVc"
       }
     },
     {
-      "id": 104,
+      "id": 104, //DONE
       "festivalId": 5,
-      "year": 2023,
-      "capacity": 150000,
-      "stages": 4,
+      "year": 2022,
+      "starts": "02/06/2022",
+      "ends": "11/06/2022",
+      "capacity": 96000,
+      "stages": 7,
       "sponsors": [
+        {
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+        },
+        {
+          "name": "OCB",
+          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+        },
         {
           "name": "Desperados",
           "logo": "https://jasainternacional.com/wp-content/uploads/2022/12/desperados.png"
         },
         {
-          "name": "Absolute",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
+          "name": "Pull & Bear",
+          "logo": "https://download.logo.wine/logo/Pull%26Bear/Pull%26Bear-Logo.wine.png"
         },
         {
-          "name": "Coca-Cola",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
+          "name": "Cupra",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cupra_black.png/800px-Cupra_black.png"
         },
         {
-          "name": "OCB",
-          "logo": "https://seeklogo.com/images/O/ocb-logo-EB6F25E8D5-seeklogo.com.png"
+          "name": "Estrella Damm",
+          "logo": "https://w7.pngwing.com/pngs/844/7/png-transparent-estrella-damm-beer-s-a-damm-restaurant-lager-beer-food-logo-alcohol-by-volume.png"
+        },
+        {
+          "name": "Amazon Music",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Amazon_Music_logo.svg/2560px-Amazon_Music_logo.svg.png"
         }
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "General Admission",
+          "price": 295
         },
         {
-          "type": "All days pass regular",
-          "price": 180
-        },
-        {
-          "type": "One day pass",
-          "price": 90
+          "type": "VIP",
+          "price": 545
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://media.pitchfork.com/photos/60acccc5853a96fc7df32201/master/w_1600,c_limit/unnamed%20(9).jpg",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/10/05/16649524431051.jpg",
+          "https://estaticos-cdn.prensaiberica.es/clip/0bb5aaaf-5186-4d8b-bfe3-def847b629cf_16-9-discover-aspect-ratio_default_0.jpg",
+          "https://www.iq-mag.net/wp-content/uploads/2020/01/PSound2019.jpg",
+          "https://estaticos-cdn.prensaiberica.es/clip/fe85ad07-2702-4d43-8490-a922d2b93692_source-aspect-ratio_default_0.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmKaGuJGtY_LV4woMsA4jZuPtEKOpnXeNpQ&usqp=CAU"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=6z-0uA4vlS4"
       }
     },
     {
-      "id": 105,
+      "id": 105, //DONE
       "festivalId": 1,
-      "year": 2023,
-      "capacity": 150000,
-      "stages": 4,
+      "year": 2022,
+      "starts": "28/08/2022",
+      "ends": "05/09/2022",
+      "capacity": 75000,
+      "stages": 5,
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "Fomo Ticket",
+          "price": 1175
         },
         {
-          "type": "All days pass regular",
-          "price": 180
+          "type": "OMG Ticket",
+          "price": 395
         },
         {
-          "type": "One day pass",
-          "price": 90
+          "type": "Vehicle Pass",
+          "price": 150
         }
       ],
       "sources": {
-        "cover": "url",
+        "cover": "https://i.redd.it/mno9tc6ozbj91.jpg",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/644b2844-7e6d-400a-8ba3-ccc809993082/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=klorexSQsBnfuqsxS1z4orVb-7bzKJpxW-Cb2yQ8G-m-XGNQZO6ViHMSD3qXPTeM-xgkRbG7Gyc7i4s5Km4pNCJyohxX33~6WLU7~LwaJNch-ckInyIOPNdbExgDkx8sozDIKGkxXHtOyy3hstYb9xrkgmhDqe5lGQodMK-T0T5bJO8vzJDbZavacPjXesQqHJQmYIKwjDHfm8PEeQ9yPZWcRqClT-PmZmoDt3XMHlhTOeAmoRd-LpkKKxdDY3TCU77JH~76i6ITrvJa1MPvgaO1ai9EGpPP5ccYIpwA2BP2aeKqmiYDiZ4cXyuScPPw~oxw-hN--WYdfMltwyWEoQ__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/32a97b07-b03d-4d23-9c22-c9709facf589/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=P3RWxQjpB~Az-3A1ONr7avZX7JDiA40D7UkPOVbU3mA22NPsXAU4f1SKJAsSO8F2I1Nr8wp7lQf4VeMxXIBe2zmJvbMPcD5IgdfyLwfFRXvYjJsCaOXg~zzGXI64hv8o8iqjeT3JNwnyqqvLuwlOfI5VsJthS7mprjz7NL1O9GYH6F3EnUtVFaRVSKY7Gs53II6B81VS-4i4u2oI~N1s5d0ExdxtP1RDDQJ6SjmaUt8uZ3a2ll02N2BGAZ83rfo3FWXR8FULLy78KKoSfRNlyjSpjiTxlupcuN1lo~fUcZoZ1PwtD2M~jXx2aYn0k8qEbUFuLvuqXlHdjDu3Fdj6fw__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/5e0ba368-665f-417b-89ad-2fcb4f0b1493/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=vIsywXpFmnLvtrHQ0aDKNpNyUJRq31ABODw4UHSRe2fqkViKKKAe12iISHPjMuGWMheaaeNYVHtO1aoKunlrE9qYwJBwnsnA~hgaNLwDHCNTAdG6QKibTwMOWhknG73ZomhJXS78MBCGv~TuSAYYGCpYMm6Rwn--PHi8BX8rMQLSwEsAz27DSTQR0PwvbKHuAZo-NVuTBoZydw5o7vxXHEjFkOPRpmlNi~osG99phHxozLFf7E5-tbOCRqDlPuESj09tTp1qGy5RZUWvmLI81z~MdsmcBMS8qngoX7VhGNFXsseOSUL9u8Vq6psimLD6g3Aa30RtlWcsNofteU7jwA__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/adddd64e-f526-4c50-a2bc-ec70b1b3a293/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=fg5fvQvTNkAtIydZomya3JDWN~jUOXON2m~xiux5PTniV4fjK9k8n51F5KEwh2lToc-0RPEnjnbPO8AV3TbyXBfu03YBKcDQ-wOdiO8gJewuHt~V2d-8GTmJAkyAtW4ubqq-lxfJ1ickYeK0gk5VuFkqI~jmZWbgc4wMGxMXqm1LZ1Dow4DH3U85ln6BEEi7HyCG4NuUvksSx9fmEm~wIBmFOHh1vsy7CWUckIkiG38zyZ14KYVNBYPagXvmzmsmb-IbwnH0IIYrlQcBFW2XsMdtIJH8A~jBm29dL3hAV3~LxWM0Qx-gX-v9jxHnvgJ-MZBbmx8GqvBNFMd3p~WH5Q__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/85b3457b-d698-4634-8a33-f3fbeff667fe/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=h9vcwmho~M460S99H7vdUEJIYLqHJ3Xi6m1Qwgq7WF9xGSIXYgVecQD7G0~~WuDvjoIa3Kw-nYdCb-5rimAW0nRyrICj8Os43hHdjQcNBtbfv1ndTc8yZwg8EpGgS68pryrCGgChTZLvapV4IsxcFzZLxIdnVFNxtdV35iz2ZeKRC0fQxS-qmUir92WHW79kq7oL2IW2KQ0fQ~U3cnJuWLCo~iLxRD-cyK8svQKXVmnYKBmFO9aGeYFLsgoC~bPs5ReuMOtwYDW9W4ZszBkdsqPoiF4xF9ZmH1xx8Tz~tE0dt~V8vKvIFPJaNFmHkeZjiqWWppN1JiAoMOJTYUeQnQ__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=DDy7FrYbCrE"
       }
     },
     {
-      "id": 106,
+      "id": 106, //DONE
       "festivalId": 2,
       "year": 2023,
-      "capacity": 150000,
-      "stages": 4,
+      "starts": "21/07/2023",
+      "ends": "30/07/2023",
+      "capacity": 400000,
+      "stages": 16,
       "sponsors": [
         {
           "name": "Absolute",
@@ -508,27 +526,25 @@
           "price": 90
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://scontent.fmad20-1.fna.fbcdn.net/v/t39.30808-6/361915106_824845875675826_3927437152389489883_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=ylbt32EHxfoAX9OzK8m&_nc_ht=scontent.fmad20-1.fna&oh=00_AfDElSPuZVxuB6YiXreeAiVdG2HyETJiagM8GV3vv-aSlg&oe=65D45861",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://media.gettyimages.com/id/579208298/es/foto/topshot-this-photo-taken-on-july-22-2016-at-the-de-schorre-recreation-area-in-boom-shows-the.jpg?s=612x612&w=0&k=20&c=YpVZ_AYXD9COsSsNESAUscKJtrioPVK75Mrz_alNZhs=",
+          "https://media.gettyimages.com/id/1157805173/es/foto/people-of-tomorrow-have-a-rest-moment-at-mainstage-during-the-first-day-of-the-tomorrowland.jpg?s=612x612&w=0&k=20&c=poCkbMhilrH8rZhT_SloOyv6MqL7HKPQh-leQHqoFFg=",
+          "https://media.gettyimages.com/id/523442422/es/foto/sao-paulo-brazil-main-stage-with-fireworks-during-the-second-day-of-the-tomorrowland-music.jpg?s=612x612&w=0&k=20&c=1L6t7k9CdJN9UdFf-Lx-Xy3geVX2N7ekCQ5MWNR5FrA=",
+          "https://media.gettyimages.com/id/1002420282/es/foto/festival-goers-attend-the-14th-edition-of-the-tomorrowland-music-festival-at-the-de-schorre.jpg?s=612x612&w=0&k=20&c=J-Jchwo9g4C6dG5tRGqpUH2_XM7rhupcvX36hIQacns=",
+          "https://media.gettyimages.com/id/523849104/es/foto/sao-paulo-brazil-a-general-view-of-atmosphere-with-fireworks-during-the-third-day-of-the.jpg?s=612x612&w=0&k=20&c=iinxIMInJBs-6K4rcrMWmTehzkkWqtve0stKz6OeFCU="
         ],
-        "video": "url"
+        "video": "uhttps://www.youtube.com/watch?v=ZIHMHcQ-qw4"
       }
     },
     {
-      "id": 107,
+      "id": 107, //DONE
       "festivalId": 3,
       "year": 2023,
-      "capacity": 150000,
+      "starts": "27/08/2023",
+      "ends": "04)09/2023",
+      "capacity": 73000,
       "stages": 4,
       "sponsors": [
         {
@@ -558,90 +574,99 @@
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "5 days pass + Accomodation",
+          "price": 839
         },
         {
-          "type": "All days pass regular",
-          "price": 180
-        },
-        {
-          "type": "One day pass",
-          "price": 90
+          "type": "5 days pass + Luxury Accomodation",
+          "price": 989
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://snowbombing.com/wp-content/uploads/2022/10/SB23-1LU-Tile-1536x1536.png",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://snowbombing.com/wp-content/uploads/2023/04/20230412133008-WEDNESDAY-BONGOSBINGO-WHITECLAWMOUNTAINTOPBRUNCH-SB23-MH-6694-1400x800.jpg",
+          "https://snowbombing.com/wp-content/uploads/2023/04/20230414141611_FRIDAY_ZERO_SNOW-PARK-TERRACE_JA_SB23_DSC_6546-1930x1240.jpg",
+          "https://snowbombing.com/wp-content/uploads/2023/04/20230410210115_MONDAY_HANS-THE-BUTCHER_AH_SB23_AH1_3089-scaled-e1682428282608-1400x800.jpg",
+          "https://snowbombing.com/wp-content/uploads/2023/04/20230410213639_MONDAY_BONGOS-BINGO_AH_SB23_AH1_3122-1400x800.jpg",
+          "https://snowbombing.com/wp-content/uploads/2023/04/20230412194903-WEDNESDAY-GROOVEARMADA-HANSTHEBUTCHER-SB23-MH-9225-1930x1240.jpg"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=zu4QXB4q9SE"
       }
     },
     {
-      "id": 108,
+      "id": 108, //DONE
       "festivalId": 4,
       "year": 2023,
+      "starts": "07/07/2023",
+      "ends": "09/07/2023",
       "capacity": 150000,
-      "stages": 4,
+      "stages": 12,
       "sponsors": [
         {
-          "name": "Coca-Cola",
-          "logo": "url"
+          "name": "Absolute",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo-absolut.svg/2500px-Logo-absolut.svg.png"
         },
         {
           "name": "Coca-Cola",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png"
         },
         {
-          "name": "Budweiser",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png"
+          "name": "Heineken",
+          "logo": "https://assets.stickpng.com/images/58480a5fcef1014c0b5e4919.png"
+        },
+        {
+          "name": "Mastercard",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg"
+        },
+        {
+          "name": "Red Bull",
+          "logo": "https://cdn.freebiesupply.com/logos/large/2x/redbull-logo-png-transparent.png"
+        },
+        {
+          "name": "Samsung",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+          "name": "Uber",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png"
         }
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "General Admission - 3 days",
+          "price": 229
         },
         {
-          "type": "All days pass regular",
-          "price": 180
+          "type": "VIP - 3 days",
+          "price": 389
         },
         {
-          "type": "One day pass",
-          "price": 90
+          "type": "Destination pass",
+          "price": 199
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://i0.wp.com/findyoursounds.com/wp-content/uploads/2023/03/Ultra-Europe-phase1-Billing-Social-Post.jpg?resize=1080%2C1200&ssl=1",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://ultraeurope.com/wp-content/uploads/2023/10/20230707-213022-6916-DamiraKalajzic-1600x1067.jpg",
+          "2https://ultraeurope.com/wp-content/uploads/2023/10/20230709-044351-_MarkoObradovicEdge-1600x1067.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2023/10/20230725-105414-_JulienDuval-1600x1067.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2023/10/20230725-110024-_JulienDuval-1600x1067.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2023/10/20230710-050753-7440_AndroTasovac-1600x1066.jpg",
+          "https://ultraeurope.com/wp-content/uploads/2023/10/20230710-010415-6607_JulienDuval-1600x1066.jpg"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=yXlyocCBk9g"
       }
     },
     {
-      "id": 109,
+      "id": 109, //DONE
       "festivalId": 5,
       "year": 2023,
-      "capacity": 150000,
-      "stages": 4,
+      "starts": "29/05/2023",
+      "ends": "04/06/2023",
+      "capacity": 253000,
+      "stages": 8,
       "sponsors": [
         {
           "name": "Coca-Cola",
@@ -658,68 +683,78 @@
         {
           "name": "Desperados",
           "logo": "https://jasainternacional.com/wp-content/uploads/2022/12/desperados.png"
+        },
+        {
+          "name": "Pull & Bear",
+          "logo": "https://download.logo.wine/logo/Pull%26Bear/Pull%26Bear-Logo.wine.png"
+        },
+        {
+          "name": "Cupra",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cupra_black.png/800px-Cupra_black.png"
+        },
+        {
+          "name": "Estrella Damm",
+          "logo": "https://w7.pngwing.com/pngs/844/7/png-transparent-estrella-damm-beer-s-a-damm-restaurant-lager-beer-food-logo-alcohol-by-volume.png"
+        },
+        {
+          "name": "Amazon Music",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Amazon_Music_logo.svg/2560px-Amazon_Music_logo.svg.png"
         }
       ],
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "General Admission",
+          "price": 270
         },
         {
-          "type": "All days pass regular",
-          "price": 180
-        },
-        {
-          "type": "One day pass",
-          "price": 90
+          "type": "VIP",
+          "price": 480
         }
       ],
-      "promoter": {
-        "name": "Mundo Evasion",
-        "president": "Ramon Colillas"
-      },
       "sources": {
-        "cover": "url",
+        "cover": "https://hips.hearstapps.com/hmg-prod/images/primavera-sound-barcelona-646de66772b34.jpg?resize=980:*",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://www.musicfestivalwizard.com/wp-content/uploads/2022/06/Vito-Valentinetti-Primavera-Sound-2022-20.jpg",
+          "https://www.musicfestivalwizard.com/wp-content/uploads/2022/06/Vito-Valentinetti-Primavera-Sound-2022-19.jpg",
+          "https://www.musicfestivalwizard.com/wp-content/uploads/2022/06/Vito-Valentinetti-Primavera-Sound-2022-17.jpg",
+          "https://www.musicfestivalwizard.com/wp-content/uploads/2022/06/Vito-Valentinetti-Primavera-Sound-2022-45-1.jpg",
+          "https://www.musicfestivalwizard.com/wp-content/uploads/2022/06/Vito-Valentinetti-Primavera-Sound-2022-635.jpg"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=SwjYFlMgKt4"
       }
     },
     {
-      "id": 110,
+      "id": 110, //DONE
       "festivalId": 1,
       "year": 2023,
-      "capacity": 150000,
+      "starts": "27/08/2023",
+      "ends": "04/09/2023",
+      "capacity": 75000,
       "stages": 4,
       "tickets": [
         {
-          "type": "All days pass VIP",
-          "price": 245
+          "type": "Fomo Ticket",
+          "price": 12500
         },
         {
-          "type": "All days pass regular",
-          "price": 180
+          "type": "OMG Ticket",
+          "price": 575
         },
         {
-          "type": "One day pass",
-          "price": 90
+          "type": "Vehicle Pass",
+          "price": 150
         }
       ],
       "sources": {
-        "cover": "url",
+        "cover": "https://mixmagsa.com/assets/uploads/images/_twoThirds/300168501_5381204585248632_6525773740291532568_n.jpg",
         "images": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/4804496e-c4e4-42ae-acc6-1e25611dbc89/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=nvIG3oQeSRoHSnb8sDJbhnwJmOW7mjfj44SQtciwQXJrybxIpaLbOQEEtHdnu8L-5~q1-vXY0rwAypgfke5bHn~Vbl~-3EETcnMBToPOPs11~ZXmEi-oQYz0TkIvn~3iWfH89G~BA9F2JN76KkRNuYY1ccYDBoPgRfGJy6MoWb-TZb5oc38aMkRlHP-oRHVWBAyOnKGr2a90mBGjsUxSx~Gn1g5GDDdOy-d0gFmmXdKrE5erhlBUqmtLybCIChgqR3Mih32rGtx0ZwhoB78jBaCD0bsTLSLKXFdxztzljbKRenc01L8MWFbuUlAysiAkNoQ3J~saHaRrxXNJZUXdaw__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/9a67c8ac-9f54-4405-8be2-48e001da92b7/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=XktVF-Gyg4XLn3hQfYvC9ZNU3T2M0T5OVjDgKfolWZfAHvHDB6ZnKRui4toS1P3O7ULKgQU6hR5CaSA0xffV31HTA~OogbQaaAZggGXYSqirydjD8ZVpm6mmKtaJ8ri9XR0EQQC~D6abwP6kfzwBnikLeiuCw3hTedKDPDYLmuhAALad0996ct8aMEJ5xgaiOfO4jnwDd9n3FEYW5tZnMfudmn6-IesltNY9z6Cig~PyVJmGKUGdHuF58us30KgE9eYApMOBfDLui5LX8NIk-WSxc1taONDO6xADaBmUiY4WDOdn7BKIgQokIU80~b-oqnEbsB1c0TqiBBIqfGyq3Q__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/846cb29d-440e-4692-bfa8-8546658dc043/thumbnail/eyJ3IjoyMDQ4LCJoIjoyMDQ4LCJzY29wZSI6ImFwcCJ9?Expires=1708203600&Signature=bTuHlpmCTi7NVaWvkkOj9RiX4GtvnNcCcddOcYB-NFIhjessLcMATRItxs96R-0ctg3m5F21lp1u-ihI9vZSUWCE0sgkZtDn0CMt0yURUpopzkKDdu485f2dS-u-PlC4ydxbRubQaIXmzVekXW0RgaIAWQYYhDZwkZf5VJhjzXh8aNngZ3OTXU5IAaCcFwYGbPu0-uqWA1qID5MBRxJZAT231Ba7u-fAMULJu48hyZ0s2cvl3xrJHE-yBZEmOMihHPYPrzZD8cPsTis3Le6FsfPOyy7HJ4iMgwzKTEPYfDJUfHe0r3NxTxMSU7hIir9lPMQqZenyYEIw2yA6ikiabg__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/fca2963b-dc2e-4e22-89c2-84a33d2ea055/thumbnail/eyJ3IjoyMDQ4LCJoIjoyMDQ4LCJzY29wZSI6ImFwcCJ9?Expires=1708203600&Signature=NpdZiy03OB0sk2FWMzit2GTejMi-A~nak4SyG7zW9dZdtOidN6A3dTy7S5FEmvmpfCXV5Bq3-ttFTP9nrq5U-nPqXa6NO~vyaAfaSlRFEpIr3Adn78fDBHcBSOZKTlmfk7IdNsPosjSTfhqyfIlznn7dnSKRGMrCLmNBla3u1pUBWjRvZBfz92JN6MitoHRYa5NXLSlRVw4fHQo06SIedo8QTRSx1D4QSwAwAsX7rdp7P5JKfiMhuVckyblmA9gFSUyPY~G1INec964ozGDlIrskpbLTnyI~XoSgF7hEMlyvLBu65KtlRiRC9JM2-OIRZOjmzj2LMoKTF~JOY~y6qA__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ",
+          "https://previews.us-east-1.widencdn.net/preview/19766140/assets/asset-view/c65f2af7-001f-42a1-a427-f3f19550d21d/thumbnail/eyJ3IjozMDAsImgiOjMwMCwic2NvcGUiOiJhcHAifQ==?Expires=1708203600&Signature=Ng9yM779fMDG8StevxRX0hzrWeXd3rNNIXABPXP~cuZfsZMorMkUKX-kv06CVGps4u-nrCHkZDaPyJ6D3-1dnH6TYfjujfVA90B7q1O9guO70G7eJcHPoNT4x3yiBF9IyUOk0XQ~RTRmS4o3fMjdyd4JTRqxsl1GaKIWPaqVn3zMmIqcVyQnHCbPxqbZLLXB~8Zm8J2HFMgWYtS7G~yBcPRGN9NPQPjQL7-khngnNO8YvPpsEEZSigWaNFlYbomcrwDQv7L2wBX6yxXJES2T4qjfZfBfCOvgHwhBRhDPg7X80u32FYXfEfWpl3wzn0w48h6DFPQMTD1eiHepliVgFQ__&Key-Pair-Id=APKAJM7FVRD2EPOYUXBQ"
         ],
-        "video": "url"
+        "video": "https://www.youtube.com/watch?v=ZIHMHcQ-qw4"
       }
     }
   ]
