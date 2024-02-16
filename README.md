@@ -34,6 +34,6 @@
 | HTTP VERB  |  URLS | REQUEST BODY | ACTION |
 | ---------- | ---------- | ---------- | ----------| 
 | GET|  /festivals/?_embed=editions  |JSON| Retrieve all Festivals with its own editions|
-| GET| /festivals/:id?_embed=editions |(EMPTY)|Return the specific Festival with its specific edition|
+| GET| /festivals/:id?_embed=editions |JSON|Return the specific Festival with its specific edition|
 
 
