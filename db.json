@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Burning Man",
+      "shortDescription": "Is an annual event in the Nevada desert where participants build a creative community and culminate the week with the burning of a sculpture of the 'Man'.",
       "description": "Guided by the values expressed by the 10 Principles, Burning Man is a global ecosystem of artists, makers, and community organizers who co-create art, events, and local initiatives around the world. Most recognizably, tens of thousands of Burners gather annually to build Black Rock City, a participative temporary metropolis in the Nevada desert.The nonprofit Burning Man Project produces the annual Burning Man event in Black Rock City, and provides year-round support, connection, education, and grants to an ever-growing network of Regional Burning Man communities in more than 40 US states and 35 countries. Read on to learn all the ways you can get involved in Burning Man culture!",
       "location": {
         "country": "USA",
@@ -34,15 +35,25 @@
         "Noise"
       ],
       "outdoor": true,
-      "source": [
-        "https://www.youtube.com/watch?v=6brdIO0YOyY",
-        "https://www.youtube.com/watch?v=2o0CmWkYzCo",
-        "https://www.youtube.com/watch?v=9kDI2lCOEpo"
-      ]
+      "source": {
+        "image": "https://wololosound.com/wp-content/uploads/burning-man-2016-a-billboard-1548-1024x677-1.jpg",
+        "videos": [
+          {
+            "video1": "https://www.youtube.com/watch?v=6brdIO0YOyY"
+          },
+          {
+            "video2": "https://www.youtube.com/watch?v=2o0CmWkYzCo"
+          },
+          {
+            "video3": "https://www.youtube.com/watch?v=9kDI2lCOEpo"
+          }
+        ]
+      }
     },
     {
       "id": 2,
       "name": "TomorrowLand",
+      "shortDescription": "Electronic music festival held in Belgium, renowned for its immersive stages, world-class DJs, and vibrant atmosphere.",
       "description": "Tomorrowland is a large-scale annual electronic dance music festival held in Boom, Belgium. Taking place within De Schorre provincial recreational park, it debuted in 2005, from an idea conceived by brothers Manu and Michiel Beers.[4] Since then, Tomorrowland has become one of the best known music festivals in the world. It has won numerous accolades and awards, including being voted five times in a row as best musical event of the year at the International Dance Music Awards. It employs 80 people year-round for the organisation and 15,000 people during the event. Tomorrowland's success has led to the creation of spin-off festivals. From 2013 to 2015, the concept was briefly exported to the United States, near Atlanta, under the name TomorrowWorld. In 2015, a festival known as Tomorrowland Brasil was started in a third country, Brazil. Since 2019, the festival has set up a winter edition, Tomorrowland Winter, in the heart of the Olympic resort of Alpe d'Huez, France.",
       "location": {
         "country": "Belgica",
@@ -72,11 +83,15 @@
         "Latin",
         "Classical"
       ],
-      "outdoor": true
+      "outdoor": true,
+      "source": {
+        "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/V62MVBW3WFMSBMITHV4CKLAZKM.jpg"
+      }
     },
     {
       "id": 3,
       "name": "SnowBombing",
+      "shortDescription": "Music and winter sports festival held in the Austrian Alps, combining top-tier electronic music with skiing and snowboarding in a breathtaking mountain setting.",
       "description": "SnowBombing is an annual music and winter sports festival held in various locations across Europe. It is known for combining top-tier electronic music with outdoor activities such as skiing and snowboarding at some of the continent's finest ski resorts.<LF>The festival offers a variety of performances by internationally renowned artists in different electronic music genres, as well as parties on ski slopes, in clubs, and at unique venues like igloos or mountain refuges.<LF>In addition to music, SnowBombing offers a wide range of activities such as skiing and snowboarding competitions, outdoor hot tub baths, snow yoga sessions, and more. There are also accommodation options ranging from luxury hotels to cozy mountain chalets.<LF>SnowBombing is known for its festive atmosphere and unique blend of music and winter sports, making it an exciting experience for music lovers and snow enthusiasts alike.",
       "location": {
         "country": "Austria",
@@ -100,11 +115,15 @@
         "Disco",
         "Hip Hop"
       ],
-      "outdoor": true
+      "outdoor": true,
+      "source": {
+        "image": "https://metro.co.uk/wp-content/uploads/2018/12/Street-Party-feat.-David-Rodigan-f50a.png"
+      }
     },
     {
       "id": 4,
       "name": "UltraEurope",
+      "shortDescription": "Electronic music festival held in Croatia, featuring top DJs and artists across various genres, set against the backdrop of stunning Croatian landscapes.",
       "description": "Ultra Europe is an extension of the Ultra Music Festival, which began in Miami, United States, in 1999. The success of the festival in Miami led to the international expansion of the Ultra brand, and Ultra Europe became one of the main destinations in the festival series.<LF>The Ultra Europe festival takes place in the city of Split, Croatia. In addition to the main events in Split, the festival often includes pre and post-festival parties in other cities in Croatia, such as Hvar and Vis.<LF>Ultra Europe features an impressive lineup of world-renowned electronic music artists. Musical genres include EDM (Electronic Dance Music), house, techno, trance, dubstep, and more. The festival has hosted some of the world's biggest DJs and producers, as well as emerging artists.<LF>Ultra Europe offers attendees an immersive experience with multiple stages, special effects, dazzling lights, and a celebratory atmosphere. In addition to the music, the festival may also include additional activities, chill-out areas, food options, and more to provide a complete experience for electronic music fans.<LF>Due to its reputation as one of the top electronic music festivals in Europe, Ultra Europe attracts a diverse international audience of music fans from around the world. Attendees come to enjoy the music, culture, and festive atmosphere of the festival.",
       "location": {
         "country": "Croatia",
@@ -134,11 +153,15 @@
         "Latin",
         "Classical"
       ],
-      "outdoor": true
+      "outdoor": true,
+      "source": {
+        "image": "https://umfworldwide.com/wp-content/uploads/2022/09/ultraeu2022_0708_2351509110_alivecoverage-768x512.jpeg"
+      }
     },
     {
       "id": 5,
       "name": "Primavera Sound",
+      "shortDescription": "Music festival held in Barcelona, Spain, showcasing a diverse lineup of international and local artists across various genres, set in the vibrant cultural hub of Barcelona.",
       "description": "The Primavera Sound is an annual music festival held in Barcelona, Spain. It is one of Europe's most important festivals and attracts a wide variety of music artists and fans from around the world.<LF>The Primavera Sound festival began in 2001 as a one-day event with a focus on independent, alternative, and cutting-edge music. Over the years, it has grown significantly in size and popularity, becoming a multi-day festival that encompasses a wide range of musical genres.<LF>Primavera Sound primarily takes place in Parc del Fòrum, a large outdoor space located on the coast of Barcelona. In addition to concerts at Parc del Fòrum, the festival also includes performances at various venues throughout the city, such as clubs, theaters, and cultural spaces.<LF>Primavera Sound is known for its musical diversity and eclecticism. The festival features a mix of genres ranging from indie rock, pop, and electronic, to hip-hop, punk, folk, and more. This allows attendees to enjoy a wide range of musical styles and discover new artists.<LF>Each year, Primavera Sound presents an impressive lineup of both established and emerging artists. It has hosted some of the biggest names in the music industry, as well as up-and-coming talents on the rise. Some of the artists who have performed at the festival include Arcade Fire, Radiohead, Björk, Kendrick Lamar, The Strokes, Lana Del Rey, among many others.<LF>In addition to music, Primavera Sound offers a unique experience that combines Barcelona's culture, gastronomy, and art. Attendees can enjoy local food, art exhibitions, cultural activities, and more, making the festival a complete and enriching experience.",
       "location": {
         "country": "Spain",
@@ -154,12 +177,15 @@
         "Punk",
         "Folk"
       ],
-      "outdoor": true
+      "outdoor": true,
+      "source": {
+        "image": "https://crazyminds.es/wp-content/uploads/Public-Esc-Estrella-Damm-PS-BCN-23-01_06_23-Christian-Bertrand-13-copia.jpg"
+      }
     }
   ],
   "editions": [
     {
-      "id": 100, // DONE
+      "id": 100,
       "festivalId": 1,
       "starts": "22/08/2021",
       "ends": "07/09/2021",
@@ -192,7 +218,7 @@
         "video": "https://www.youtube.com/watch?v=WJ7BpSpib2A"
       }
     },
-    { //DONE
+    {
       "id": 101,
       "festivalId": 2,
       "starts": "15/07/2022",
@@ -261,7 +287,7 @@
       }
     },
     {
-      "id": 102, // DONE
+      "id": 102,
       "festivalId": 3,
       "year": 2022,
       "starts": "04/04/2022",
@@ -317,7 +343,7 @@
       }
     },
     {
-      "id": 103, // DONE
+      "id": 103,
       "festivalId": 4,
       "year": 2022,
       "starts": "08/07/2022",
@@ -381,7 +407,7 @@
       }
     },
     {
-      "id": 104, //DONE
+      "id": 104,
       "festivalId": 5,
       "year": 2022,
       "starts": "02/06/2022",
@@ -441,7 +467,7 @@
       }
     },
     {
-      "id": 105, //DONE
+      "id": 105,
       "festivalId": 1,
       "year": 2022,
       "starts": "28/08/2022",
@@ -475,7 +501,7 @@
       }
     },
     {
-      "id": 106, //DONE
+      "id": 106,
       "festivalId": 2,
       "year": 2023,
       "starts": "21/07/2023",
@@ -539,7 +565,7 @@
       }
     },
     {
-      "id": 107, //DONE
+      "id": 107,
       "festivalId": 3,
       "year": 2023,
       "starts": "27/08/2023",
@@ -595,7 +621,7 @@
       }
     },
     {
-      "id": 108, //DONE
+      "id": 108,
       "festivalId": 4,
       "year": 2023,
       "starts": "07/07/2023",
@@ -660,7 +686,7 @@
       }
     },
     {
-      "id": 109, //DONE
+      "id": 109,
       "festivalId": 5,
       "year": 2023,
       "starts": "29/05/2023",
@@ -724,7 +750,7 @@
       }
     },
     {
-      "id": 110, //DONE
+      "id": 110,
       "festivalId": 1,
       "year": 2023,
       "starts": "27/08/2023",
