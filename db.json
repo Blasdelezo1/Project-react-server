@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Burning Man",
       "shortDescription": "Is an annual event in the Nevada desert where participants build a creative community and culminate the week with the burning of a sculpture of the 'Man'.",
-      "description": "Guided by the values expressed by the 10 Principles, Burning Man is a global ecosystem of artists, makers, and community organizers who co-create art, events, and local initiatives around the world. Most recognizably, tens of thousands of Burners gather annually to build Black Rock City, a participative temporary metropolis in the Nevada desert.The nonprofit Burning Man Project produces the annual Burning Man event in Black Rock City, and provides year-round support, connection, education, and grants to an ever-growing network of Regional Burning Man communities in more than 40 US states and 35 countries. Read on to learn all the ways you can get involved in Burning Man culture!",
+      "description": "Guided by the values expressed by the 10 Principles, Burning Man is a global ecosystem of artists, makers, and community organizers who co-create art, events, and local initiatives around the world.\nMost recognizably, tens of thousands of Burners gather annually to build Black Rock City, a participative temporary metropolis in the Nevada desert.The nonprofit Burning Man Project produces the annual Burning Man event in Black Rock City, and provides year-round support, connection, education, and grants to an ever-growing network of Regional Burning Man communities in more than 40 US states and 35 countries. Read on to learn all the ways you can get involved in Burning Man culture!",
       "location": {
         "country": "USA",
         "state": "Nevada",
         "city": "Black Rock City",
         "zipcode": 8378
       },
-      "logo": "https://p7.hiclipart.com/preview/1017/551/599/logo-angle-white-burning-man.jpg",
+      "logo": "https://i.pinimg.com/originals/59/36/32/59363266120569d1e17ddb6dfcd12543.png",
       "genres": [
         "Electronic Dance Music (EDM)",
         "Techno",
@@ -26,13 +26,9 @@
         "Rock",
         "Jazz",
         "Funk",
-        "World Music",
         "Folk",
         "Reggae",
-        "Latin",
-        "Classical",
-        "Industrial",
-        "Noise"
+        "Latin"
       ],
       "outdoor": true,
       "source": {
@@ -60,13 +56,12 @@
         "city": "Boom",
         "zipcode": 23244
       },
-      "logo": "https://w7.pngwing.com/pngs/116/435/png-transparent-2018-tomorrowland-tomorrowworld-music-festival-decal-2016-tomorrowland-tomorrowland-heart-logo-sticker-thumbnail.png",
+      "logo": "https://i.pinimg.com/originals/65/58/3c/65583cb0fb6ffce58f0a4968d05a21d5.jpg",
       "genres": [
         "Electronic Dance Music (EDM)",
         "Techno",
         "House",
         "Trance",
-        "Progressive House",
         "Deep House",
         "Dubstep",
         "Drum and Bass",
@@ -78,10 +73,7 @@
         "Rock",
         "Funk",
         "Disco",
-        "Reggae",
-        "World Music",
-        "Latin",
-        "Classical"
+        "Reggae"
       ],
       "outdoor": true,
       "source": {
@@ -130,15 +122,13 @@
         "city": "Split",
         "zipcode": 21000
       },
-      "logo": "https://w7.pngwing.com/pngs/608/313/png-transparent-ultra-europe-logo-ultra-music-festival-ultra-europe-split-ultra-singapore-ultra-bali-axe-logo-miscellaneous-text-trademark.png",
+      "logo": "https://www.summerfestivalguide.co.uk/wp-content/uploads/2018/10/ultra-europe.jpg",
       "genres": [
         "Electronic Dance Music (EDM)",
         "Techno",
         "House",
         "Trance",
-        "Progressive House",
         "Deep House",
-        "Dubstep",
         "Drum and Bass",
         "Hardstyle",
         "Trap",
@@ -149,9 +139,7 @@
         "Funk",
         "Disco",
         "Reggae",
-        "World Music",
-        "Latin",
-        "Classical"
+        "Latin"
       ],
       "outdoor": true,
       "source": {
