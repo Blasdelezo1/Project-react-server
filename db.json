@@ -175,6 +175,30 @@
       "source": {
         "image": "https://indiehoy.com/wp-content/uploads/2023/06/japanese-breakfast-primavera-sound-barcelona-2023.jpg"
       }
+    },
+    {
+      "name": "Mad Cool",
+      "shortDescription": "music festival in Madrid, Spain, renowned for its diverse range of genres and lineup of top-tier artists. Held in July, it attracts thousands of attendees with cultural and culinary ",
+      "description": "Mad Cool Festival is a prominent and eagerly anticipated music extravaganza situated in the heart of Madrid, Spain. Since its inception in 2016, it has become a highlight of the European festival circuit, attracting a diverse array of attendees from across the globe. Renowned for its stellar lineup, Mad Cool boasts an eclectic mix of top-tier international artists alongside exciting up-and-coming acts, ensuring there's something for every music enthusiast.  Spread across multiple stages, the festival offers an immersive experience that transcends mere musical performances. Attendees can explore a vibrant tapestry of genres, from rock and pop to electronic and indie, curated to cater to a wide spectrum of tastes. Beyond the music, Mad Cool delights festival-goers with an array of culinary delights from local and international food vendors, providing a gastronomic journey to complement the sonic feast.  Moreover, Mad Cool prides itself on its vibrant and inclusive atmosphere, fostering a sense of community among attendees who gather to celebrate their shared love for music and culture. The festival grounds come alive with captivating art installations, interactive experiences, and thoughtfully designed spaces, creating an environment where creativity and self-expression flourish.  As the sun sets over Madrid, the festival truly comes into its own, with electrifying performances under the starlit sky creating unforgettable moments for all in attendance. With its commitment to excellence, innovation, and the celebration of music in all its forms, Mad Cool Festival continues to solidify its status as a premier destination for music lovers seeking an unparalleled festival experience.",
+      "location": {
+        "country": "España",
+        "city": "Madrid",
+        "zipcode": "28021"
+      },
+      "logo": "https://yt3.googleusercontent.com/YPnJEKeW1Osf9UM4LB_xcSFYv_Syfsb50-ZsaochNWf4AxQe5Osn4392wf3OaEHuHKCLbaxCJA=s900-c-k-c0x00ffffff-no-rj",
+      "genres": [
+        "Pop",
+        "R&B",
+        "Drum and Bass",
+        "Hip-hop",
+        "Blues",
+        "House",
+        "Reggae",
+        "Indie",
+        "Techno"
+      ],
+      "outdoor": false,
+      "id": 6
     }
   ],
   "editions": [
@@ -776,6 +800,57 @@
         ],
         "video": "https://www.youtube.com/watch?v=ZIHMHcQ-qw4"
       }
+    },
+    {
+      "starts": "2024-02-16",
+      "ends": "",
+      "capacity": "",
+      "stages": "",
+      "tickets": [
+        {
+          "type": "",
+          "price": ""
+        }
+      ],
+      "sources": {
+        "images": ""
+      },
+      "id": 111
+    },
+    {
+      "festivalId": "6",
+      "year": 2024,
+      "starts": "2024-07-10",
+      "ends": "2024-07-13",
+      "capacity": "80000",
+      "stages": "6",
+      "tickets": [
+        {
+          "type": "4 days Ticket",
+          "price": "290"
+        },
+        {
+          "type": "1 day Ticket",
+          "price": "89"
+        },
+        {
+          "type": "4 days VIP Ticket ",
+          "price": "482"
+        },
+        {
+          "type": "1 day VIP Ticket",
+          "price": "187"
+        }
+      ],
+      "sources": [
+        {
+          "images": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/15/17026277700046.jpg"
+        },
+        {
+          "images": "https://madcoolfestival.es/assets/images/home/experience_madrid.webp"
+        }
+      ],
+      "id": 113
     }
   ]
 }
